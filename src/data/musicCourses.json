@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Full Stack Web Dev",
+            "slug": "full-stack-web-dev",
+            "description": "Master full stack web development with in-depth tutorials and real-world projects.",
+            "price": 199.99,
+            "instructor": "Alice Johnson",
+            "isFeatured": true,
+            "image": "/courses/fullstack.jpg"
+        },
+        {
+            "id": 2,
+            "title": "AI-ML",
+            "slug": "ai-ml",
+            "description": "Dive into artificial intelligence and machine learning with this advanced course.",
+            "price": 249.99,
+            "instructor": "Bob Brown",
+            "isFeatured": true,
+            "image": "/courses/aiml.jpg"
+        }
+    ]
+  }
